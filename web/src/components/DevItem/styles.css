@@ -41,12 +41,12 @@ li.dev-item p {
 }
 
 li.dev-item a {
-    color: #8e4dff;
+    color: #FF7B19;
     font-size: 14px;
     text-decoration: none;
 }
 
 li.dev-item a:hover {
-    color: #5a2ea6;
+    color: #f76e06;
 
 }
